@@ -1,9 +1,8 @@
 * Vilka filer bör finnas i .gitignore? 
 
-1. Oparating system files
-2. Application files
-3. Language and framework files
-4. Credentials
+1. Log files
+2. Files with API key/secrets, credentials, or sensitive information
+3. Useless system files like .DS_Stroe on macOS
 
 * Vad är en applikationsserver och varför behövs den?
 
