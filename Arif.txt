@@ -1,19 +1,16 @@
 * Vilka filer bör finnas i .gitignore? 
 
-projektfiler (t.ex .project)
-inställningar (.settings)
-paketfiler (.war, .jar)
+1. Oparating system files
+2. Application files
+3. Language and framework files
+4. Credentials
 
 * Vad är en applikationsserver och varför behövs den?
 
-En samling av program som används för att köra andra program, kan t.ex ligga som en mellanhand mellan en webbserver och en databasserver för att förmedla vidare information från webbservern till databasservern.
+An application server is a mixed framework of software tha allows both the creation of web applications and a server environment to run them.
+An applications server is designed to install, operate and host applications and accociated services for end uses.
 
-Den behövs för en webserver är designad och ofta optimerad för att visa websidor därför kan det saknas resurserna för att köra krävande web applicationer.
 
+* Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsproekt?
 
-* Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
-utvecklingsprojekt.
-
-Vilka funktioner som behövs och ska användas i projektet (plugins)
-kostnad
-team-erfarenhet
+Cost, user friendly, speed etc.
