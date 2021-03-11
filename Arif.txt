@@ -1,0 +1,19 @@
+* Vilka filer bör finnas i .gitignore? 
+
+projektfiler (t.ex .project)
+inställningar (.settings)
+paketfiler (.war, .jar)
+
+* Vad är en applikationsserver och varför behövs den?
+
+En samling av program som används för att köra andra program, kan t.ex ligga som en mellanhand mellan en webbserver och en databasserver för att förmedla vidare information från webbservern till databasservern.
+
+Den behövs för en webserver är designad och ofta optimerad för att visa websidor därför kan det saknas resurserna för att köra krävande web applicationer.
+
+
+* Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt.
+
+Vilka funktioner som behövs och ska användas i projektet (plugins)
+kostnad
+team-erfarenhet
