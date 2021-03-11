@@ -1,0 +1,5 @@
+1. I .gitignore lägger vi filer som applikationsfiler, operating system files, språkfiler.
+
+2. Applikationsserver är en programvara som kör ett program. Den behövs för att användare ska kunna komma åt applikationer.
+
+3. Parametrar för att välja IDE kan vara kostnad, användarvänlighet, snabbhet, vilka plugins m.m.
